@@ -11,7 +11,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = github-test
 TEMPLATE = app
 
-#simple edit
+# another simple edit
 
 SOURCES += main.cpp\
         mainwindow.cpp
